@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForCom5
 - 👀 I’m interested in shaking this feeling of imposter syndrome.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning how to not suck at Python.
 
 You can probably reach me fastest on Twitter.
 
